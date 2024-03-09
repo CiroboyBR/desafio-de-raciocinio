@@ -43,8 +43,8 @@ Como você faria para descobrir, usando apenas duas idas até uma das salas das 
     <br />3. E) RESPOSTA: 13
     <br />3. F) RESPOSTA: 200 (SÓ NUMEROS QUE COMEÇAM COM A LETRA D)
 
-4. SIMULAÇÂO: https://gerardao.com.br/jogos/lampada/
-    <br />4. Código: https://github.com/CiroboyBR/interruptores-e-lampadas
-    <br />4. RESPOSTA: Considerando que todos os interruptores estão na posição desligado inicialmente, eu começaria ligando dois interruptores, esperaria 10 minutos e desligaria um deles. Após isso, eu visitaria duas salas e então constataria que a luz que estiver acessa, seria do interruptor ligado, a luz que estivesse apagada e quente, seria do interruptor que eu liguei e desliguei após dez minutos.
+4. JOGO PARA SIMULAÇÂO: https://gerardao.com.br/jogos/lampada/
+    <br />Código: https://github.com/CiroboyBR/interruptores-e-lampadas
+    <br />RESPOSTA: Considerando que todos os interruptores estão na posição desligado inicialmente, eu começaria ligando dois interruptores, esperaria 10 minutos e desligaria um deles. Após isso, eu visitaria duas salas e então constataria que a luz que estiver acessa, seria do interruptor ligado, a luz que estivesse apagada e quente, seria do interruptor que eu liguei e desliguei após dez minutos.
 5. RESPOSTA: https://github.com/CiroboyBR/desafio-de-raciocinio/blob/main/05.py
 
