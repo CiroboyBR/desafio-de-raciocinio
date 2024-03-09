@@ -11,7 +11,7 @@ while (num < 30):
 #resposta 128
 print('\n3b.: ', end='')
 num = 1
-while (num < 5):
+while (num < 300):
     print(num, end=' ')
     num += num
 
@@ -44,19 +44,3 @@ while (num2 < 30):
     num2 += num
     num = temp
     print(num, end=' ')
-
-
-#3 f) 2,10, 12, 16, 17, 18, 19, ____  
-#resposta 
-print('\n3f.: ', end='')
-num = 0
-i = 2
-divisor = 20
-for i in range(1, 10):
-    
-    if(i % 2 == 0):
-        num  = (divisor / i) + 1
-    else:
-        num  = (divisor / i) + 1
-    print( int( num / 2) , end=' ')
-
