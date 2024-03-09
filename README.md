@@ -40,15 +40,15 @@ Como você faria para descobrir, usando apenas duas idas até uma das salas das 
 1. RESPOSTA: https://github.com/CiroboyBR/desafio-de-raciocinio/blob/main/01.py
 2. RESPOSTA: https://github.com/CiroboyBR/desafio-de-raciocinio/blob/main/02.py
 3. RESPOSTA: https://github.com/CiroboyBR/desafio-de-raciocinio/blob/main/03.py
-    3. A) RESPOSTA: 9
-    3. B) RESPOSTA: 128
-    3. C) RESPOSTA: 49
-    3. D) RESPOSTA: 100
-    3. E) RESPOSTA: 13
-    3. F) RESPOSTA: 200 (SÓ NUMEROS QUE COMEÇAM COM A LETRA D)
+    <br />3. A) RESPOSTA: 9
+    <br />3. B) RESPOSTA: 128
+    <br />3. C) RESPOSTA: 49
+    <br />3. D) RESPOSTA: 100
+    <br />3. E) RESPOSTA: 13
+    <br />3. F) RESPOSTA: 200 (SÓ NUMEROS QUE COMEÇAM COM A LETRA D)
 
 4. SIMULAÇÂO: https://gerardao.com.br/jogos/lampada/
-    4. Código: https://github.com/CiroboyBR/interruptores-e-lampadas
-    4. RESPOSTA: Considerando que todos os interruptores estão na posição desligado inicialmente, eu começaria ligando dois interruptores, esperaria 10 minutos e desligaria um deles. Após isso, eu visitaria duas salas e então constataria que a luz que estiver acessa, seria do interruptor ligado, a luz que estivesse apagada e quente, seria do interruptor que eu liguei e desliguei após dez minutos.
+    <br />4. Código: https://github.com/CiroboyBR/interruptores-e-lampadas
+    <br />4. RESPOSTA: Considerando que todos os interruptores estão na posição desligado inicialmente, eu começaria ligando dois interruptores, esperaria 10 minutos e desligaria um deles. Após isso, eu visitaria duas salas e então constataria que a luz que estiver acessa, seria do interruptor ligado, a luz que estivesse apagada e quente, seria do interruptor que eu liguei e desliguei após dez minutos.
 5. RESPOSTA: https://github.com/CiroboyBR/desafio-de-raciocinio/blob/main/05.py
 
